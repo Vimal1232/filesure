@@ -20,25 +20,25 @@ const Navbar = () => {
           <div
             className={` font-LeagueGothic text-[18px] tracking-[0.02em] leading-[1.2em]  cursor-pointer `}
           >
-            Service
+            <a href="#Service">Service</a>
           </div>
 
           <div
             className={` font-LeagueGothic text-[18px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer `}
           >
-            Media
+            <a href="#Faq">Faq</a>
           </div>
 
           <div
             className={` font-LeagueGothic text-[18px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer `}
           >
-            Case
+            <a href="#Case">Case</a>
           </div>
 
           <div
             className={` font-LeagueGothic text-[18px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer `}
           >
-            Contact
+            <a href="#Contact">Contact</a>
           </div>
         </div>
         <div className="flex gap-5 text-[#80a947] max-md:hidden ">
@@ -72,28 +72,28 @@ const Navbar = () => {
               className={` font-LeagueGothic text-[40px] tracking-[0.02em] leading-[1.2em]  cursor-pointer`}
               onClick={() => setOpen(!open)}
             >
-              Service
+              <a href="#Service">Service</a>
             </div>
 
             <div
               className={` font-LeagueGothic text-[40px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer`}
               onClick={() => setOpen(!open)}
             >
-              Media
+              <a href="#Faq">Faq</a>
             </div>
 
             <div
               className={` font-LeagueGothic text-[40px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer`}
               onClick={() => setOpen(!open)}
             >
-              Case
+              <a href="#Case">Case</a>
             </div>
 
             <div
               className={` font-LeagueGothic text-[40px] tracking-[0.02em] leading-[1.2em] text-start cursor-pointer`}
               onClick={() => setOpen(!open)}
             >
-              Contact
+              <a href="#Contact">Contact</a>
             </div>
           </div>
         </div>

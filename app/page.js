@@ -19,22 +19,22 @@ const page = () => {
       <div className=" px-10 max-md:px-5">
         <Logobar />
       </div>
-      <div className="px-10 max-md:px-5 mb-20">
+      <div className="px-10 max-md:px-5 mb-20" id="Service">
         <Development />
       </div>
       <div className="px-10 max-md:px-5 pb-20 bg-Backgr">
         <Devloped />
       </div>
-      <div className="pb-20">
+      <div className="pb-20" id="Contact">
         <Contact />
       </div>
-      <div className="pb-20">
+      <div className="pb-20" id="Case">
         <AppD />
       </div>
       <div className="pb-20">
         <Team />
       </div>
-      <div className="pb-20">
+      <div className="pb-20" id="Faq">
         <Faq />
       </div>
       <div className="pb-20">

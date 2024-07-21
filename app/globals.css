@@ -76,3 +76,7 @@
     rgba(124, 165, 70, 1) 100%
   );
 }
+
+* {
+  scroll-behavior: smooth;
+}
