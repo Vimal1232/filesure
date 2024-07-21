@@ -1,5 +1,5 @@
 import React from "react";
-import Industry from "../Data/industry.json";
+import Industry from "../Data/Industry.json";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const Devloped = () => {
