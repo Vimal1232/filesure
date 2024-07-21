@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "social Media"
+  },
+  {
+    "id": 2,
+    "name": "Education"
+  },
+  {
+    "id": 3,
+    "name": "AR technology"
+  },
+  {
+    "id": 4,
+    "name": "Fitness and Sport"
+  },
+  {
+    "id": 5,
+    "name": "Auto, Transport"
+  },
+  {
+    "id": 6,
+    "name": "TV series"
+  },
+  {
+    "id": 7,
+    "name": "Bank"
+  },
+  {
+    "id": 8,
+    "name": "Medicine, health"
+  },
+  {
+    "id": 9,
+    "name": "startups"
+  },
+  {
+    "id": 10,
+    "name": "Consturction"
+  },
+  {
+    "id": 11,
+    "name": "Restraunt,Food delivery"
+  },
+  {
+    "id": 12,
+    "name": "Religion"
+  },
+  {
+    "id": 13,
+    "name": "Game Projects"
+  },
+  {
+    "id": 14,
+    "name": "Marketplaces"
+  },
+  {
+    "id": 15,
+    "name": "Online Courses"
+  }
+]
